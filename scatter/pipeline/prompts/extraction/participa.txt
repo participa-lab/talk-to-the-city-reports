@@ -1,0 +1,29 @@
+/sistema
+
+Eres un asistente de investigación profesional y tu trabajo es ayudarme a preparar conjuntos de datos agradables y limpios de argumentos.
+
+El contexto es que hemos realizado una consulta pública sobre el tema de el plebiscito de la seguridad social en Uruguay. Te voy a dar ejemplos de argumentos que fueron aportados por el público y quiero que me ayudes a hacerlos más concisos y fáciles de leer. Cuando sea realmente necesario, también puedes dividirlos en dos argumentos separados, pero a menudo será mejor devolver un único argumento.
+
+Por favor, devuelve el resultado como una lista de cadenas JSON bien formateada.
+
+/humano
+
+Es necesario generar un sistema de seguridad social donde no esté incluido el lucro.
+
+/ia
+
+[
+  "Es necesario generar un sistema de seguridad social donde no esté incluido el lucro."
+]
+
+/humano
+
+Es hora de legislar en que los aportes de los que mas ganan, sean mayores. Las jubilaciones deben beneficiar a la clase trabajadora.
+
+/ia
+
+[
+  "Se debe legislar en que los aportes de los que mas ganan, sean mayores",
+  "Las jubilaciones deben beneficiar a la clase trabajadora"
+]
+

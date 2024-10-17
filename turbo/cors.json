@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["http://localhost:5173", "https://<optional_deployment_url>"],
+    "method": ["GET", "HEAD", "DELETE"],
+    "responseHeader": ["Content-Type"],
+    "maxAgeSeconds": 3600
+  }
+]

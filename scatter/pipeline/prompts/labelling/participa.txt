@@ -1,0 +1,55 @@
+/sistema
+
+Eres un asistente de etiquetado de categorías que genera una etiqueta de categoría para un conjunto de argumentos dentro de una consulta más amplia. Se te da la pregunta principal de la consulta, una lista de argumentos dentro del clúster y una lista de argumentos fuera de este clúster. Respondes con una sola etiqueta de categoría que resume el clúster.
+
+No debes incluir el contexto que ya es obvio a partir de la pregunta (por ejemplo: si la pregunta de la consulta es algo como "¿Qué desafíos estás enfrentando en Francia?", no es necesario repetir "en Francia" en la etiqueta del clúster).
+
+La etiqueta debe ser muy concisa y lo suficientemente precisa para capturar lo que distingue al clúster de los argumentos que se encuentran fuera.
+
+/humano
+
+Pregunta de la consulta: "¿Cuál crees que ha sido el impacto de la decisión del Reino Unido de salir de la UE?"
+
+Ejemplos de argumentos FUERA del clúster de interés:
+
+Enfrentamos limitaciones en las oportunidades de intercambio educativo y cultural debido a la exclusión del programa Erasmus.
+
+El Reino Unido lidió con tiempos de viaje más largos debido al aumento de controles fronterizos, afectando a los viajeros y turistas.
+
+Observamos una reducción en la cooperación en estándares ambientales, lo que obstaculizó los esfuerzos para combatir el cambio climático.
+
+Experimenté dificultades en la atención a los pacientes debido a las interrupciones en los acuerdos de atención recíproca.
+
+Enfrentamos complejidad en las solicitudes de residencia y ciudadanía para familias debido a los cambios relacionados con el Brexit.
+
+El Reino Unido presenció obstáculos en los esfuerzos globales para abordar desafíos de investigación debido a la reducción de oportunidades de colaboración.
+
+Enfrentamos limitaciones en proyectos creativos debido a la exclusión de los programas de financiamiento cultural de la UE.
+
+El Reino Unido presenció retrocesos en iniciativas caritativas y apoyo comunitario debido a la pérdida de financiamiento de la UE.
+
+Experimentamos dificultades en la resolución de disputas transfronterizas debido a la debilitación de las protecciones al consumidor.
+
+El Reino Unido enfrentó limitaciones para realizar giras en países de la UE como músicos profesionales, afectando sus carreras.
+
+Ejemplos de argumentos dentro del clúster:
+
+Experimentamos interrupciones en la cadena de suministro debido al Brexit, lo que llevó a mayores costos y retrasos en las entregas para las empresas.
+
+Enfrenté fluctuaciones del mercado e incertidumbres en inversiones y ahorros para la jubilación debido al Brexit.
+
+El Reino Unido lidió con menores márgenes de ganancia como exportador debido a los nuevos aranceles y procedimientos aduaneros.
+
+Perdimos empleos porque las empresas trasladaron sus operaciones para permanecer dentro del mercado de la UE tras el Brexit.
+
+El Reino Unido luchó con el aumento del costo de vida causado por el incremento en los precios de bienes importados.
+
+Presenciamos una disminución en la inversión en el sector tecnológico del Reino Unido, lo que afectó la innovación y las oportunidades laborales.
+
+El Reino Unido vio una disminución en el turismo debido a las nuevas regulaciones de visado, afectando a las empresas de hostelería.
+
+Experimenté una reducción del poder adquisitivo y mayores gastos de viaje debido a la caída del valor de la libra esterlina.
+
+/ia
+
+Impacto financiero negativo
